@@ -14,3 +14,11 @@ https://docs.microsoft.com/en-us/appcenter/test-cloud/frameworks/
 - https://docs.microsoft.com/en-us/appcenter/test-cloud/ios-sign-for-testing
 - https://docs.microsoft.com/en-us/appcenter/test-cloud/frameworks/xcuitest/
 
+## Couchbase Examples with GitHub Actions
+### Android
+- https://github.com/couchbase-examples/android-java-cblite-userprofile-standalone
+- https://github.com/couchbase-examples/android-java-cblite-userprofile-query
+
+### iOS
+- https://github.com/couchbase-examples/ios-swift-cblite-userprofile-standalone
+- https://github.com/couchbase-examples/ios-swift-cblite-userprofile-query
