@@ -14,11 +14,13 @@ https://docs.microsoft.com/en-us/appcenter/test-cloud/frameworks/
 - https://docs.microsoft.com/en-us/appcenter/test-cloud/ios-sign-for-testing
 - https://docs.microsoft.com/en-us/appcenter/test-cloud/frameworks/xcuitest/
 
-## Couchbase Examples with GitHub Actions
-### Android
+# Couchbase Examples with GitHub Actions
+These are repos with GitHub actions that push to App Center.  The workflow files exist in the .github/workflows directory.
+
+## Android
 - https://github.com/couchbase-examples/android-java-cblite-userprofile-standalone
 - https://github.com/couchbase-examples/android-java-cblite-userprofile-query
 
-### iOS
+## iOS
 - https://github.com/couchbase-examples/ios-swift-cblite-userprofile-standalone
 - https://github.com/couchbase-examples/ios-swift-cblite-userprofile-query
